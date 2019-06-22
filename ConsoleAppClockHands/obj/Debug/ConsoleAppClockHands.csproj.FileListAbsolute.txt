@@ -1,0 +1,5 @@
+c:\users\ливарчук\documents\visual studio 2017\Projects\ConsoleAppClockHands\ConsoleAppClockHands\bin\Debug\ConsoleAppClockHands.exe.config
+c:\users\ливарчук\documents\visual studio 2017\Projects\ConsoleAppClockHands\ConsoleAppClockHands\bin\Debug\ConsoleAppClockHands.exe
+c:\users\ливарчук\documents\visual studio 2017\Projects\ConsoleAppClockHands\ConsoleAppClockHands\bin\Debug\ConsoleAppClockHands.pdb
+c:\users\ливарчук\documents\visual studio 2017\Projects\ConsoleAppClockHands\ConsoleAppClockHands\obj\Debug\ConsoleAppClockHands.exe
+c:\users\ливарчук\documents\visual studio 2017\Projects\ConsoleAppClockHands\ConsoleAppClockHands\obj\Debug\ConsoleAppClockHands.pdb
